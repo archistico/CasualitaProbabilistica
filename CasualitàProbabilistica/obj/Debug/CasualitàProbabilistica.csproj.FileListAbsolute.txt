@@ -1,0 +1,19 @@
+D:\Programmazione\00Github\CasualitàProbabilistica\CasualitàProbabilistica\bin\Debug\CasualitàProbabilistica.exe.config
+D:\Programmazione\00Github\CasualitàProbabilistica\CasualitàProbabilistica\bin\Debug\CasualitàProbabilistica.exe
+D:\Programmazione\00Github\CasualitàProbabilistica\CasualitàProbabilistica\bin\Debug\CasualitàProbabilistica.pdb
+D:\Programmazione\00Github\CasualitàProbabilistica\CasualitàProbabilistica\obj\Debug\CasualitàProbabilistica.csprojResolveAssemblyReference.cache
+D:\Programmazione\00Github\CasualitàProbabilistica\CasualitàProbabilistica\obj\Debug\CasualitàProbabilistica.frmMain.resources
+D:\Programmazione\00Github\CasualitàProbabilistica\CasualitàProbabilistica\obj\Debug\CasualitàProbabilistica.Properties.Resources.resources
+D:\Programmazione\00Github\CasualitàProbabilistica\CasualitàProbabilistica\obj\Debug\CasualitàProbabilistica.csproj.GenerateResource.Cache
+D:\Programmazione\00Github\CasualitàProbabilistica\CasualitàProbabilistica\obj\Debug\CasualitàProbabilistica.exe
+D:\Programmazione\00Github\CasualitàProbabilistica\CasualitàProbabilistica\obj\Debug\CasualitàProbabilistica.pdb
+C:\Users\Archemi\Desktop\Da caricare Github\CasualitàProbabilistica\CasualitàProbabilistica\bin\Debug\CasualitàProbabilistica.exe.config
+C:\Users\Archemi\Desktop\Da caricare Github\CasualitàProbabilistica\CasualitàProbabilistica\bin\Debug\CasualitàProbabilistica.exe
+C:\Users\Archemi\Desktop\Da caricare Github\CasualitàProbabilistica\CasualitàProbabilistica\bin\Debug\CasualitàProbabilistica.pdb
+C:\Users\Archemi\Desktop\Da caricare Github\CasualitàProbabilistica\CasualitàProbabilistica\obj\Debug\CasualitàProbabilistica.csprojAssemblyReference.cache
+C:\Users\Archemi\Desktop\Da caricare Github\CasualitàProbabilistica\CasualitàProbabilistica\obj\Debug\CasualitàProbabilistica.frmMain.resources
+C:\Users\Archemi\Desktop\Da caricare Github\CasualitàProbabilistica\CasualitàProbabilistica\obj\Debug\CasualitàProbabilistica.Properties.Resources.resources
+C:\Users\Archemi\Desktop\Da caricare Github\CasualitàProbabilistica\CasualitàProbabilistica\obj\Debug\CasualitàProbabilistica.csproj.GenerateResource.cache
+C:\Users\Archemi\Desktop\Da caricare Github\CasualitàProbabilistica\CasualitàProbabilistica\obj\Debug\CasualitàProbabilistica.csproj.CoreCompileInputs.cache
+C:\Users\Archemi\Desktop\Da caricare Github\CasualitàProbabilistica\CasualitàProbabilistica\obj\Debug\CasualitàProbabilistica.exe
+C:\Users\Archemi\Desktop\Da caricare Github\CasualitàProbabilistica\CasualitàProbabilistica\obj\Debug\CasualitàProbabilistica.pdb
